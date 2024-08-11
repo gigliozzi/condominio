@@ -2,23 +2,23 @@
 
 | Unidade | Status  |
 | ------- | ------- |
-|  101    | ⚠️ aberto |
-|  102    | ✔️ pago |
-|  103    | ✔️ pago |
+|  101    | ✔️ pago |
+|  102    | <code>aberto</code> |
+|  103    | <code>aberto</code> |
 |  104    | ✔️ pago |
-|  201    | ✔️ pago |
-|  202    | ✔️ pago |
-|  203    | ✔️ pago |
-|  204    | ✔️ pago |
-|  301    | ✔️ pago |
-|  302    | ✔️ pago |
-|  303    | ✔️ pago |
+|  201    | <code>aberto</code> |
+|  202    | <code>aberto</code> |
+|  203    | <code>aberto</code> |
+|  204    | <code>aberto</code> |
+|  301    | <code>aberto</code> |
+|  302    | <code>aberto</code> |
+|  303    | <code>aberto</code> |
 |  304    | ✔️ pago |
 |  401    | ✔️ pago |
-|  402    | ✔️ pago |
-|  403    | ✔️ pago |
+|  402    | <code>aberto</code> |
+|  403    | <code>aberto</code> |
 |  404    | ✔️ pago |
-|  501    | ✔️ pago |
+|  501    | <code>aberto</code> |
 |  502    | ✔️ pago |
-|  503    | ✔️ pago |
-|  504    | ✔️ pago |
+|  503    | <code>aberto</code> |
+|  504    | <code>aberto</code> |
